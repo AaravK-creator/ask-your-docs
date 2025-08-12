@@ -1,5 +1,4 @@
 # ask-your-docs
-# 📄 Multi-PDF RAG (Retrieval-Augmented Generation) App
 
 A Python-based AI tool that lets you **upload multiple PDFs** and ask natural language questions to get accurate answers — powered by **Google Gemini**, **FAISS**, and **PyPDF**.
 
